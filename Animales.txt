@@ -1,0 +1,10 @@
+Oso
+Gato
+Perro
+Pato
+Leon
+Tigre
+Gallo
+Jirafa
+Hipopotamo
+Leopardo
