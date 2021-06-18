@@ -15,7 +15,7 @@ print("--"*100)
 color=random.choice( ['rojo', 'amarillo', 'verde', 'azul', 'morado'])
 print(color)
 
-print("--"*100)
+print("-*-"*100)
 s=list(range(15))
 random.shuffle(s)
 print(s)
