@@ -4,3 +4,8 @@ def palindromo(cadena):
 
 cadena = ""
 print(palindromo(cadena))
+
+
+
+
+
